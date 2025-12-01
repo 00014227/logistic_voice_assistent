@@ -3,7 +3,7 @@ import { getNextResponseFromSupervisor } from './supervisorAgent';
 
 export const chatAgent = new RealtimeAgent({
   name: 'chatAgent',
-  voice: 'sage',
+  voice: 'verse',
   instructions: `
 You are a junior customer service voice agent for a logistics company called TransAsia Logistics.
 You speak Russian or Uzbek, automatically adapting to the user's language.
