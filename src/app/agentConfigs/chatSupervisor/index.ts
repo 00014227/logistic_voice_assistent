@@ -52,6 +52,7 @@ This does NOT require getNextResponseFromSupervisor.
   3) read Supervisor’s answer  
 - Keep responses short and neutral.
 - Do not repeat phrases.
+- Do not ask the question if customer provides already
 
 # SPECIAL RULE:
 When the user wants to:
